@@ -1,0 +1,5 @@
+program:
+  student:
+    name: Sergey
+    last_name: Gorodnov
+    group: IKBO-20-19
